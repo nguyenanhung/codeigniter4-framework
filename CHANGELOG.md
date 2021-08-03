@@ -4,7 +4,7 @@ Lịch sử release tại đây: https://github.com/nguyenanhung/codeigniter4-fr
 
 Change Log được viết theo biểu mẫu tại đây: https://keepachangelog.com/en/1.0.0/
 
-## [1.0.0] - 2021/08/04
+## [4.1.3] - 2021/08/04
 ### Added
 - [x] Add version CodeIgniter Framework `4.1.3`
 
