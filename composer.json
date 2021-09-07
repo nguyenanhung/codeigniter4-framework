@@ -5,13 +5,13 @@
     "homepage": "https://codeigniter.com",
     "license": "MIT",
     "require": {
-        "php": "^7.3||^8.0",
+        "php": "^7.3 || ^8.0",
         "ext-curl": "*",
         "ext-intl": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
         "kint-php/kint": "^3.3",
-        "laminas/laminas-escaper": "^2.6",
+        "laminas/laminas-escaper": "^2.8",
         "psr/log": "^1.1"
     },
     "suggest": {
